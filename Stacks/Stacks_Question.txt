@@ -1,0 +1,3 @@
+ Question number 1: Write a function in python that can reverse a string using stack data structure. Use Stack class from the Stacks Implementation code
+ Sample Input :New Delhi is the capital of India 
+ Sample Output : aidnI fo latipac eht si ihleD weN 
